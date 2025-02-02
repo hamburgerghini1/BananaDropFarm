@@ -1,5 +1,8 @@
 # Banana Drop Farm
 
+## About the installer
+Remember to launch it as admin if you installed it to Program Files etc...
+
 ## Description
 Banana Drop Farm is a game cheat for game Banana. This cheat can change the score in the game, bypass the idle bot check, spoof cps and much more.
 
